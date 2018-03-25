@@ -1,4 +1,4 @@
-# Folium-Chorolpeth---Brazil-state
+# Folium-Choropleth---Brazil-state
 Do choropleth map of brazilian state using folium librabry - python
 
 It is desirable to do a choropleth map of brazilian states using folium library on python 2.7
